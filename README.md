@@ -4,6 +4,7 @@ Discover your next favorite movie with this AI-powered recommender system built 
 
 **Open in browser**:
    - Visit [App Link](https://huggingface.co/spaces/junaid17/Movies_Recomendation_system)
+   - The app and  all the files are Hosted on HuggingFcae
 
 ## Features
 - Select a movie and get 5 personalized recommendations
@@ -17,6 +18,7 @@ Discover your next favorite movie with this AI-powered recommender system built 
 - Movie metadata is preprocessed and vectorized using Sentence Transformers
 - Cosine similarity is computed between movie tag vectors
 - The app displays the top 5 most similar movies with posters
+
 
 
 
