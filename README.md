@@ -3,7 +3,7 @@
 Discover your next favorite movie with this AI-powered recommender system built using Streamlit, pandas, scikit-learn, and Sentence Transformers.
 
 **Open in browser**:
-   - Visit [Link](https://huggingface.co/spaces/junaid17/Movies_Recomendation_system)
+   - Visit [App Link](https://huggingface.co/spaces/junaid17/Movies_Recomendation_system)
 
 ## Features
 - Select a movie and get 5 personalized recommendations
@@ -17,5 +17,6 @@ Discover your next favorite movie with this AI-powered recommender system built 
 - Movie metadata is preprocessed and vectorized using Sentence Transformers
 - Cosine similarity is computed between movie tag vectors
 - The app displays the top 5 most similar movies with posters
+
 
 
